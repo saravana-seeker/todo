@@ -1,0 +1,13 @@
+.card-box {
+    max-width: 300px;
+    min-height: 200px;
+    /* display: flex;
+    flex-wrap: wrap; */
+
+}
+
+.card-body a{
+    font-size: 15px;
+    
+
+}
